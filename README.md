@@ -1,3 +1,3 @@
-# VEGAS-Documentation
+# VEGAS Tutorial
 An updated repository for anyone wanting to get started using VEGAS, the software environment for analyzing data from the VERITAS Telescope Array.
 The goal of this new repository is to act as a comprehensive guide to installing and running VEGAS to do your own analysis of data. This will NOT be a place to find every single bug that can occur with VEGAS, that will be in the documentation of VEGAS itself, but instead this will act to hopefully get the user up and running with analysis without having to expend the energy of you and whoever is helping you by following a tutorial that is many many years old.
